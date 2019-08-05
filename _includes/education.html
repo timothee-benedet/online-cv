@@ -1,6 +1,6 @@
-{% assign educations = site.data.data.educations %}
-{% if educations %}
-<section class="section educations-section">
+{% assign education = site.data.data.education %}
+{% if education %}
+<section class="section education-section">
   <h2 class="section-title">
     <span class="fa-stack fa-xs">
       <i class="fas fa-circle fa-stack-2x"></i>
@@ -9,7 +9,7 @@
     Éducations
   </h2>
 
-  {% for education in educations %}
+  {% for education in education %}
   <div class="item">
 
     <div class="meta">
