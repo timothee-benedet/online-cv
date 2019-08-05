@@ -135,6 +135,12 @@ skills:
     title: Compétences
 
     toolset:
+      - name: OS AIX 
+        level: 15%
+        
+      - name: OS Linux ( RedHat / Debian / CentOS )
+        level: 55%
+        
       - name: Bash & awk
         level: 55%
 
