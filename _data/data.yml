@@ -35,20 +35,25 @@ sidebar:
       - item: Informatique
         link:
 
-
       - item: RubiksCube
         link:
-
 
       - item: Lockpicking
         link:
         
-        
       - item: Cuisine
         link:
 
-
       - item: Littérature 
+        link:
+        
+      - item: RubiksCube
+        link:
+        
+      - item: Musique
+        link:
+        
+      - item: Guitare
         link:
 education:
     - degree: ∙ BTS SIO Option SISR en alternance
