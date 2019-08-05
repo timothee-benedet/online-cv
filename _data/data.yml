@@ -31,19 +31,21 @@ sidebar:
       - idiom: Anglais
         level: Niveau BTS
 
-      - idiom: Spanish
-        level: Professional
-
     interests:
-      - item: Climbing
+      - item: Informatique
         link:
 
-      - item: Snowboarding
+      - item: Rubik's Cube
         link:
 
-      - item: Cooking
+      - item: Lockpicking
+        link:
+        
+      - item: Cuisine
         link:
 
+      - item: Littérature 
+        link:
 education:
     - degree: MSc in Computer Science
       university: University of London
