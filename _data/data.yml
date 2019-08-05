@@ -102,9 +102,9 @@ career-profile:
       Second paragraph if required.
       
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Administrateur système AIX/Linux
+      time: 2019 - present
+      company: IBM ISC Lille, Lille
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -119,18 +119,17 @@ experiences:
           - Bullet point
           - Bullet point
 
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+    - role: Service civique - Médiateur de la lutte contre la fracture numérique
+      time: 2018 - 2019
+      company: Garantie Jeune, Sin-le-Noble
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        Aider les personnes, notamment les jeunes, à s’approprier les usages 
+        ou outils numériques pour leurs projets personnels ou professionnels.
 
-          - Bullet point
-          - Bullet point
+          - Participer à l’animation d’actions ponctuelles ou ateliers de prévention 
+          dans l’usage des réseaux sociaux et des blogs (informations publiques, privées, e-réputation, etc.).
+          - Favoriser les échanges entre jeunes pour qu’ils partagent leurs trucs et astuces
+          - Rassurer, expliquer le fonctionnement de l’espace numérique
 
     - role: UI Developer
       time: 2012 - 2014
