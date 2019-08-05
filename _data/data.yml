@@ -52,7 +52,7 @@ sidebar:
         link:
 education:
     - degree: ∙ BTS SIO Option SISR en alternance
-      university: Lycée Gaston Berger - Lille
+      university: Lycée Gaston Berger - 59016 Lille
       time: 2018-2020
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
@@ -65,7 +65,7 @@ education:
           - Bullet point
 
     - degree: ∙ Licence d'Histoire de l'art et d'Archéologie
-      university: Université Lille III - Charle-de-Gaulle
+      university: Université Lille III - 59650 Villeneuve-d'Ascq
       time: 2015-2017
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
@@ -78,7 +78,7 @@ education:
           - Bullet point
 
     - degree: ∙ Baccalauréat Littéraire
-      university: Lycée Arthur Rimbaud - Sin-le-Noble
+      university: Lycée Arthur Rimbaud - 59450 Sin-le-Noble
       time: 2009-2014
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
@@ -104,7 +104,7 @@ career-profile:
 experiences:
     - role: ∙ Administrateur système AIX/Linux
       time: 2019 - present
-      company: IBM ISC Lille, Lille
+      company: IBM ISC Lille, 59160 Lille
       details: |
         Fromation en alternance chez IBM ISC Lille en deux ans dans le cadre de mon BTS SIO option SISR.
         Le but étant d'apprendre à utiliser un OS Linux ( RedHat ) et le système AIX afin de proposer une
@@ -115,7 +115,7 @@ experiences:
 
     - role: ∙ Médiateur de la lutte contre la fracture numérique
       time: 2018 - 2018
-      company: Service civique - Garantie Jeune, Sin-le-Noble
+      company: Service civique - Garantie Jeune, 59450 Sin-le-Noble
       details: |
         Aider les personnes, notamment les jeunes, à s’approprier les usages 
         ou outils numériques pour leurs projets personnels ou professionnels.
