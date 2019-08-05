@@ -106,21 +106,15 @@ experiences:
       time: 2019 - present
       company: IBM ISC Lille, Lille
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-
-          - Bullet point
-          - Bullet point
+        Fromation en alternance chez IBM ISC Lille en deux ans dans le cadre de mon BTS SIO option SISR.
+        Le but étant d'apprendre à utiliser un OS Linux ( RedHat ) et le système AIX afin de proposer une
+        solution aux éventuels problèmes pouvant se présenter. Apprentissage des languages de scripting
+        ( bash/awk ) pour différents projets :
+          - Mise en place d'une CGI en Ksh/html sous AIX
+          - Mise en place d'une CGI en Bash/html sous Linux
 
     - role: ∙ Médiateur de la lutte contre la fracture numérique
-      time: 2018 - 2019
+      time: 2018 - 2018
       company: Service civique - Garantie Jeune, Sin-le-Noble
       details: |
         Aider les personnes, notamment les jeunes, à s’approprier les usages 
