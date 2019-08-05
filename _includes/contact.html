@@ -48,6 +48,12 @@
       <a href="https://twitter.com/{{ sidebar.twitter }}" target="_blank">{{ sidebar.twitter }}</a>
     </li>
     {% endif %}
+    
+    {% if sidebar.permis %}
+    <li class="permis"><i class="fas fa-car"></i>
+      <p> Permis B en cours</p>
+    </li>
+    {% endif %}
 
     {% if sidebar.stack-overflow %}
     <li class="stack-overflow"><i class="fab fa-stack-overflow"></i>
@@ -64,12 +70,6 @@
     {% if sidebar.goodreads %}
     <li class="goodreads-g"><i class="fab fa-goodreads-g"></i>
       <a href="https://www.goodreads.com/user/show/{{ sidebar.goodreads }}" target="_blank">{{ sidebar.goodreads }}</a>
-    </li>
-    {% endif %}
-    
-    {% if sidebar.permis %}
-    <li class="permis"><i class="fas fa-car></i>
-      Permis B en cours
     </li>
     {% endif %}
 
