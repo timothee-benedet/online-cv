@@ -135,17 +135,23 @@ skills:
     title: Compétences
 
     toolset:
-      - name: OS AIX 
-        level: 15%
+      - name: RedHat 
+        level: 55%
+      
+      - name: Debian
+        level: 55%
         
-      - name: OS Linux ( RedHat / Debian / CentOS )
+      - name: CentOS
         level: 55%
         
       - name: Bash & awk
         level: 55%
-
+        
       - name: HTML5 & CSS
-        level: 55%
+        level: 40%
+
+      - name: OS AIX
+        level: 15%
 
 footer: >
     Designed by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>, edited by <a href="https://github.com/timothee-benedet" target="_blank" rel="nofollow">Timothée Bénédet</a>
