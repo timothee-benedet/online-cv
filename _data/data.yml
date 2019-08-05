@@ -51,7 +51,7 @@ sidebar:
       - item: Littérature 
         link:
 education:
-    - degree:∙ BTS SIO Option SISR en alternance
+    - degree: ∙ BTS SIO Option SISR en alternance
       university: Lycée Gaston Berger - Lille
       time: 2018-2020
       details: |
@@ -64,7 +64,7 @@ education:
           - Bullet point
           - Bullet point
 
-    - degree:∙ Licence d'Histoire de l'art et d'Archéologie
+    - degree: ∙ Licence d'Histoire de l'art et d'Archéologie
       university: Université Lille III - Charle-de-Gaulle
       time: 2015-2017
       details: |
@@ -77,7 +77,7 @@ education:
           - Bullet point
           - Bullet point
 
-    - degree:∙ Baccalauréat Littéraire
+    - degree: ∙ Baccalauréat Littéraire
       university: Lycée Arthur Rimbaud - Sin-le-Noble
       time: 2009-2014
       details: |
@@ -102,7 +102,7 @@ career-profile:
       Second paragraph if required.
       
 experiences:
-    - role:∙ Administrateur système AIX/Linux
+    - role: ∙ Administrateur système AIX/Linux
       time: 2019 - present
       company: IBM ISC Lille, Lille
       details: |
@@ -119,7 +119,7 @@ experiences:
           - Bullet point
           - Bullet point
 
-    - role:∙ Médiateur de la lutte contre la fracture numérique
+    - role: ∙ Médiateur de la lutte contre la fracture numérique
       time: 2018 - 2019
       company: Service civique - Garantie Jeune, Sin-le-Noble
       details: |
