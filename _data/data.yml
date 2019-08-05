@@ -52,7 +52,7 @@ sidebar:
         link:
 education:
     - degree: ∙ BTS SIO Option SISR en alternance
-      university: Lycée Gaston Berger - 59016 Lille
+      university: Lycée Gaston Berger, 59016 Lille
       time: 2018-2020
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
@@ -65,7 +65,7 @@ education:
           - Bullet point
 
     - degree: ∙ Licence d'Histoire de l'art et d'Archéologie
-      university: Université Lille III - 59650 Villeneuve-d'Ascq
+      university: Université Lille III, 59650 Villeneuve-d'Ascq
       time: 2015-2017
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
@@ -78,7 +78,7 @@ education:
           - Bullet point
 
     - degree: ∙ Baccalauréat Littéraire
-      university: Lycée Arthur Rimbaud - 59450 Sin-le-Noble
+      university: Lycée Arthur Rimbaud, 59450 Sin-le-Noble
       time: 2009-2014
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
